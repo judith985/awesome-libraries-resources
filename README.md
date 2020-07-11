@@ -24,6 +24,7 @@ A list of **awesome** libraries and resources.
      - [Stylish placeholders](https://picsum.photos/): The Lorem Ipsum for photos.
   - ## Other Resources
      - [Html Doctor](http://html5doctor.com/): Html5 Doctor.
+     - [Browser Statistics](https://www.w3schools.com/browsers/default.asp): Browser Statistics.
      - [HTML Conformance Checker](https://validator.w3.org/nu/): WHATWG - HTML Conformance Checker.
      - [Can I Use](https://caniuse.com/): Browser support tables for modern web technologies.
      - [Specificity Calculator](https://specificity.keegan.st/): The specificity of the styles specified in an HTML.
