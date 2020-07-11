@@ -43,3 +43,10 @@ A list of **awesome** libraries and resources.
 - [Awesome-xamarin-forms](https://github.com/jsuarezruiz/awesome-xamarin-forms):awesome-xamarin-forms.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 - [Xamarin.Forms.AnimationsPack](https://github.com/takecx/Xamarin.Forms.AnimationsPack): Is Animation library for Xamarin.Forms.
+
+## Resources for Asking Questions
+- [stackoverflow.com](https://stackoverflow.com): stackoverflow.com
+- [jsfiddle.net](https://jsfiddle.net): jsfiddle.net
+- [CodePen.io](https://CodePen.io): CodePen.io
+- [css-tricks.com](https://css-tricks.com): css-tricks.com
+
