@@ -15,9 +15,11 @@ A list of **awesome** libraries and resources.
      - [jQuery](http://jquery.com/): A fast, small, and feature-rich JavaScript library.
      - [Underscore](http://underscorejs.org/): Functional programming helpers without extending any built-in objects.
      - [D3 JS](http://d3js.org/): A JS library to render graphs, charts, and dynamic visualizations.
-  - ## Text Generator
+  - ## Fonts and Text Generator
      - [Lorem Ipsum](https://lipsum.com/): Generate Text.
      - [Meet the Ipsums](https://meettheipsums.com/): Generate Text.
+     - [Free fonts](https://www.fontsquirrel.com/): Free Font Utopia.
+     
   - ## Images Placeholder
      - [Placeholder Images](https://placeholder.com/): Billions Of Placeholder Images Served.
      - [PlaceIMG](https://placeimg.com/): Generate Images.
