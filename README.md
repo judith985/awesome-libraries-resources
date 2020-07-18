@@ -25,6 +25,7 @@ A list of **awesome** libraries and resources.
      - [PlaceIMG](https://placeimg.com/): Generate Images.
      - [Stylish placeholders](https://picsum.photos/): The Lorem Ipsum for photos.
   - ## Other Resources
+     - [Balsamiq Wireframes](https://balsamiq.com/): Balsamiq Wireframes.
      - [Html Doctor](http://html5doctor.com/): Html5 Doctor.
      - [Browser Statistics](https://www.w3schools.com/browsers/default.asp): Browser Statistics.
      - [HTML Conformance Checker](https://validator.w3.org/nu/): WHATWG - HTML Conformance Checker.
