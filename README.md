@@ -26,6 +26,7 @@ A list of **awesome** libraries and resources.
      - [Stylish placeholders](https://picsum.photos/): The Lorem Ipsum for photos.
   - ## Other Resources
      - [Balsamiq Wireframes](https://balsamiq.com/): Balsamiq Wireframes.
+     - [Audio Library](https://www.youtube.com/audiolibrary): Free music for your project.
      - [Html Doctor](http://html5doctor.com/): Html5 Doctor.
      - [Browser Statistics](https://www.w3schools.com/browsers/default.asp): Browser Statistics.
      - [HTML Conformance Checker](https://validator.w3.org/nu/): WHATWG - HTML Conformance Checker.
